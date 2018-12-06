@@ -1,8 +1,3 @@
 # Psychic-Game
-What the project does 
-
-
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
+ 
+Its easy game made of javascript. how to play the game?? The computer will randomly pick a letter, and the user has to guess which letter the computer chose. 
